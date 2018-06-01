@@ -11,10 +11,10 @@ function yourAnimal() {
   // P.S.: You can't just hard-code 'cat' below
   return otherAnimal
 }
-var n = 824
+
 function add2(n) {
   return n + two
-
+var n = 824
   // Feel free to move things around!
   const two = 2
 }

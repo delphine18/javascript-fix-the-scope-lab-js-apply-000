@@ -12,7 +12,6 @@ function yourAnimal() {
   return otherAnimal
 }
 
-var n = 702
 function add2(n) {
   return n + two
 
